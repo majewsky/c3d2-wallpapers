@@ -21,3 +21,10 @@ The `v2` wallpaper is based on a grid of equilateral triangles, colorized with a
 * [1920x1080 PNG](https://static.bethselamin.de/c3d2-wallpapers/v2-1920x1080.png)
 * [3840x2160 PNG](https://static.bethselamin.de/c3d2-wallpapers/v2-3840x2160.png)
 * [16:9 SVG](https://static.bethselamin.de/c3d2-wallpapers/v2.svg)
+
+## TODO: Ideas for more wallpapers
+
+- fill the screen with a triangle mesh, color triangles black/white based on intersection with logo.
+- print the logo with really coarse offset printing
+
+Will do these at some point. Maybe.
