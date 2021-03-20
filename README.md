@@ -24,7 +24,7 @@ The `v2` wallpaper is based on a grid of equilateral triangles, colorized with a
 
 ## TODO: Ideas for more wallpapers
 
-- fill the screen with a triangle mesh, color triangles black/white based on intersection with logo.
 - print the logo with really coarse offset printing
+- make a complex Fourier transform of the logo path(s), truncate to highest-order powers only, draw several such approximations over the logo ([context](https://www.youtube.com/watch?v=r6sGWTCMz2k))
 
 Will do these at some point. Maybe.
